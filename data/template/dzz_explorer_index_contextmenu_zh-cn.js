@@ -1,0 +1,1 @@
+if(!__lang){var __lang={};}__lang.cancel_collection='cancel_collection';__lang.method_open="\u6253\u5f00\u65b9\u5f0f";__lang.set_default_open="\u8bbe\u7f6e\u9ed8\u8ba4\u5e76\u6253\u5f00";

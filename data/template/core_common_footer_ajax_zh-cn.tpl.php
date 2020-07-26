@@ -1,0 +1,2 @@
+<?php if(!defined('IN_DZZ')) exit('Access Denied'); /*a:1:{s:95:"C:\Users\Administrator\Desktop\yuanma\dzzoffice\/./core/template/default/common/footer_ajax.htm";i:1584086883;}*/?>
+<?php echo output_ajax(); ?>]]></root><?php exit;?>

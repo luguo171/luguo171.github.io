@@ -1,0 +1,1 @@
+if(!__lang){var __lang={};}__lang.upload_processing="\u6b63\u5728\u4e0a\u4f20";__lang.upload_finish="\u4e0a\u4f20\u5b8c\u6210";__lang.upload_succeed="\u4e0a\u4f20\u6210\u529f";__lang.upload_failure="\u4e0a\u4f20\u5931\u8d25";
